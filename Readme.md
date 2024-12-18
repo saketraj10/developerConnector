@@ -41,3 +41,4 @@
 - Create a userSchema & user Model
 - Create POST /signup API to add data to database
 - Push some documents using API calls from postman
+- JS object vs JSON (difference)
