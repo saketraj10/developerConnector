@@ -68,3 +68,9 @@
 - Install validator
 - Explore validator library function and Use validator functions for password, email, photoURL
 - NEVER TRUST req.body
+
+- Validate data in Signup API
+- Install bcrypt package
+- Create PasswordHash using bcrypt.hash & save the user is excrupted password
+- Create login API
+- Create passwords and throw errors if email or password is invalid
